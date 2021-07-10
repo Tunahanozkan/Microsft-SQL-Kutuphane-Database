@@ -1,2 +1,3 @@
-# Microsft-SQL-Kutuphane-Database
-Microsft SQL Kütüphane Database - Kütüphanelerde aktif kullanılabilecek tüm verileri tutan ve gerekli sorgularla listeleyen sql tabanlı uygulama
+
+# Microsoft-SQL-Library-Database
+SQL based application that holds all data - active SQL in Microsoft libraries and lists them with required queries
